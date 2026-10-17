@@ -2,7 +2,7 @@
 
 By Nagham Kakish
 
-Video overview: https://youtu.be/onetqXTbK8A?si=xImiTj8IW15Q-wEg
+
 
 ## Scope
 
